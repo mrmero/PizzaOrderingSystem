@@ -4,8 +4,6 @@
 >Technologies that I have used here :
 
 <ol>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li>Algorithms and Data Structures Using Javaa</li>
+  <li>Java swing is used to create the system's interface. </li>
 </ol>
